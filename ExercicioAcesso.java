@@ -2,7 +2,7 @@ package javaestudos.aula3_estrutura_de_repeticao;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class ExercicioAcesso {
 
 	public static void main(String[] args) {
 		

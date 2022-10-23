@@ -2,7 +2,7 @@ package javaestudos.aula3_estrutura_de_repeticao;
 
 import java.util.Scanner;
 
-public class Debug {
+public class ExercicioValorMetroQuadrado {
 	
 	public static void main(String[] args) {
 		
@@ -18,7 +18,7 @@ public class Debug {
 		double metroQuadrado = sc.nextDouble(); // valor do metro quadrado de um terreno
 		
 		
-		double area = largura * comprimento; // area é calculada multiplicando a medida do comprimento pela medida da largura
+		double area = largura * comprimento; 
 		double preco = area * metroQuadrado;
 		
 		System.out.printf("Area = %.2f%n", area);

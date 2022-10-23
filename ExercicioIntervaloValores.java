@@ -2,13 +2,13 @@ package javaestudos.aula3_estrutura_de_repeticao;
 
 import java.util.Scanner;
 
-public class Exerciciofor2 {
+public class ExercicioIntervaloValores {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite um valor: ");
+		System.out.println("Digite a quantidq: ");
 		int valor1 = sc.nextInt();
 		
 		int i, x = 0, in = 0, out = 0;

@@ -2,7 +2,7 @@ package javaestudos.aula3_estrutura_de_repeticao;
 
 import java.util.Scanner;
 
-public class ExericioFor3 {
+public class ExericioDivisao {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
