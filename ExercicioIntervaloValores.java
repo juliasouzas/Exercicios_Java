@@ -8,7 +8,7 @@ public class ExercicioIntervaloValores {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite a quantidq: ");
+		System.out.println("Digite a quantide: ");
 		int valor1 = sc.nextInt();
 		
 		int i, x = 0, in = 0, out = 0;
