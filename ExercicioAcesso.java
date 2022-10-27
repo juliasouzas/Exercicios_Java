@@ -8,12 +8,14 @@ public class ExercicioAcesso {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite sua senha: ");
-		int senha = sc.nextInt();
+		int senha = 123456;
 		
-		while (senha != 2002) {
+		System.out.println("Digite sua senha: ");
+		senha = sc.nextInt();
+		
+		while (senha != 2022) {
 			System.out.println("Senha inválida! Acesso negado!");
-			System.out.println("Digite sua senha: ");
+			System.out.println("Digite sua senha novamente: ");
 			senha = sc.nextInt();
 		}
 		
